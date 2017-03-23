@@ -4,7 +4,20 @@ Nodeschool Javascripting workshop solved - https://nodeschool.io/pt-br/index.htm
 
 Javascripting Exercises
 
-Introduction <br>
-Variables Strings Strings Length Rivising Strings Numbers Rounding Numbers Number to String For Loop Arrays Array filtering Looping through arrays Objects Object Properties Functions
+Introduction </br>
+Variables </br>
+Strings </br>
+Strings Length </br> 
+Rivising Strings </br>
+Numbers </br>
+Rounding Numbers </br> 
+Number to String </br>
+For Loop </br>
+Arrays </br>
+Array filtering </br> 
+Looping through arrays </br>
+Objects </br>
+Object Properties </br>
+Functions </br>
 
 :D
